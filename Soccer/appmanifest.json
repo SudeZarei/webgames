@@ -1,0 +1,11 @@
+{
+	"name": "Soccer Kickups",
+	"short_name": "Soccer Kickups",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
